@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+games_project_lazarenko/__init__.py
+games_project_lazarenko.egg-info/PKG-INFO
+games_project_lazarenko.egg-info/SOURCES.txt
+games_project_lazarenko.egg-info/dependency_links.txt
+games_project_lazarenko.egg-info/entry_points.txt
+games_project_lazarenko.egg-info/top_level.txt
+games_project_lazarenko/VD_games/__init__.py
+games_project_lazarenko/VD_games/scripts/VD_games.py
+games_project_lazarenko/VD_games/scripts/VD_main.py
+games_project_lazarenko/VD_games/scripts/__init__.py

@@ -1,0 +1,2 @@
+[console_scripts]
+pupa-game = games_project_lazarenko.VD_games.scripts.VD_main:main

@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: games-project-lazarenko
-Version: 0.6.0
+Version: 0.7.0
 Summary: VD Games Project
 Requires-Python: >=3.12
 Requires-Dist: prompt

@@ -1,5 +1,6 @@
 from ..cli import welcome_user
 
+
 def main():
     """Основная функция приложения"""
     welcome_user()

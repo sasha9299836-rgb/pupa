@@ -13,7 +13,9 @@ games_project_lazarenko/VD_games/cli.py
 games_project_lazarenko/VD_games/engine.py
 games_project_lazarenko/VD_games/games/__init__.py
 games_project_lazarenko/VD_games/games/calc.py
+games_project_lazarenko/VD_games/games/even.py
 games_project_lazarenko/VD_games/games/gcd.py
+games_project_lazarenko/VD_games/scripts/VD_even.py
 games_project_lazarenko/VD_games/scripts/VD_games.py
 games_project_lazarenko/VD_games/scripts/VD_gcd.py
 games_project_lazarenko/VD_games/scripts/VD_main.py

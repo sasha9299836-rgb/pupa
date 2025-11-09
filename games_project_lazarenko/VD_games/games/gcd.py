@@ -1,5 +1,6 @@
-import random
 import math
+import random
+
 
 def generate_round():
     num1 = random.randint(1, 100)

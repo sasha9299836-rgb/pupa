@@ -1,4 +1,5 @@
 [console_scripts]
+VD-even = games_project_lazarenko.VD_games.scripts.VD_even:main
 VD-gcd = games_project_lazarenko.VD_games.scripts.VD_gcd:main
 brain-calc = games_project_lazarenko.VD_games.scripts.brain_calc:main
 pupa-game = games_project_lazarenko.VD_games.scripts.VD_main:main

@@ -1,2 +1,4 @@
 [console_scripts]
+VD-gcd = games_project_lazarenko.VD_games.scripts.VD_gcd:main
+brain-calc = games_project_lazarenko.VD_games.scripts.brain_calc:main
 pupa-game = games_project_lazarenko.VD_games.scripts.VD_main:main

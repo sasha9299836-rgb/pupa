@@ -1,10 +1,11 @@
 [project]
 name = "games-project-lazarenko"
-version = "0.1.0"
-description = "Игровой проект для практической работы"
-readme = "README.md"
+version = "0.5.0"
+description = "VD Games Project"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "prompt",
+]
 
 [build-system]
 requires = ["setuptools"]
@@ -12,3 +13,5 @@ build-backend = "setuptools.build_meta"
 
 [project.scripts]
 pupa-game = "games_project_lazarenko.VD_games.scripts.VD_main:main"
+brain-calc = "games_project_lazarenko.VD_games.scripts.brain_calc:main"
+VD-gcd = "games_project_lazarenko.VD_games.scripts.VD_gcd:main"
